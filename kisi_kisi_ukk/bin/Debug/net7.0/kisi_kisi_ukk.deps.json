@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "kisi_kisi_ukk/1.0.0": {
+        "runtime": {
+          "kisi_kisi_ukk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kisi_kisi_ukk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

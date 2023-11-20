@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\bin\Debug\net7.0\kisi_kisi_ukk.exe
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\bin\Debug\net7.0\kisi_kisi_ukk.deps.json
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\bin\Debug\net7.0\kisi_kisi_ukk.runtimeconfig.json
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\bin\Debug\net7.0\kisi_kisi_ukk.dll
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\bin\Debug\net7.0\kisi_kisi_ukk.pdb
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.AssemblyInfo.cs
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.dll
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\refint\kisi_kisi_ukk.dll
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.pdb
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\kisi_kisi_ukk.genruntimeconfig.cache
+C:\Users\ACER\Documents\raihandhika\toukk2_cl2\kisi_kisi_ukk\obj\Debug\net7.0\ref\kisi_kisi_ukk.dll
